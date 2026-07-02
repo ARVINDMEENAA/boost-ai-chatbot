@@ -77,7 +77,7 @@ function Chat() {
       }}
     >
       <img
-        src="/robot-assistant.png"
+        src="/robot-assistant.png.png"
         alt="AI Logo"
         style={{
           width: "70px",
